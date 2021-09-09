@@ -1,2 +1,2 @@
 # mne-codes
-Youtube codes
+This repo will contain example codes using MNE
